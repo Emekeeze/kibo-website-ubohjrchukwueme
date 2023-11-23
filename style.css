@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+article{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e5e0e0;
+padding-left: 10px;
+}
+.iframe-visit h2 {
+  text-align: center;
+}
+.james{
+  padding-left: 20px;
+}
